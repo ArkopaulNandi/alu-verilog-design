@@ -64,7 +64,7 @@ The ALU is built using a modular, hierarchical design methodology:
 | `0011`             | INCREMENT          | `Y = A + 1`                      | Cout                  |
 | `0100`             | DECREMENT          | `Y = A - 1`                      | Cout                  |
 | `0101`             | BITWISE AND        | `Y = A & B`                      |  _                    |
-| `0110`             | BITWISE OR         | `Y = A | B`                      |  _                    |
+| `0110`             | BITWISE OR         | `Y = A or B`                      |  _                    |
 | `0111`             | BITWISE XOR        | `Y = A ^ B`                      |  _                    |
 | `1000`             | 1's COMPLEMENT     | `Y = ~A` (Bitwise NOT)           |  _                    |
 | `1001`             | SHIFT LEFT LOGICAL | `Y = A << 1`                     | Cout                  |
