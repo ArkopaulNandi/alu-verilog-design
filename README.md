@@ -21,7 +21,7 @@ The ALU is built using a modular, hierarchical design methodology:
 4.  **Barrel Shifter:** A multiplexer-based unit for shift and rotate operations.
 5.  **Top-Level ALU:** Integrates all units with output multiplexing and flag generation logic.
 
-![ALU Block Diagram](./images/block_diagram.png)
+![ALU Block Diagram](https://drive.google.com/file/d/1826ClNwZgxaarjU6J1BAeB1okHGEasOl/view?usp=drive_link)
 
 ## 🚀 Getting Started
 
