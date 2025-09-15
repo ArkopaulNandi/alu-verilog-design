@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,000.001 ns"></ZoomEndTime>
+      <Cursor1Time time="0.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="340"></NameColumnWidth>
+      <ValueColumnWidth column_width="155"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/TB/Add" type="array">
+      <obj_property name="ElementShortName">Add[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Add[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Diff" type="array">
+      <obj_property name="ElementShortName">Diff[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Diff[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Twos" type="array">
+      <obj_property name="ElementShortName">Twos[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Twos[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Inc" type="array">
+      <obj_property name="ElementShortName">Inc[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Inc[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Dec" type="array">
+      <obj_property name="ElementShortName">Dec[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Dec[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Bit_and" type="array">
+      <obj_property name="ElementShortName">Bit_and[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Bit_and[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Bit_or" type="array">
+      <obj_property name="ElementShortName">Bit_or[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Bit_or[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Bit_xor" type="array">
+      <obj_property name="ElementShortName">Bit_xor[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Bit_xor[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Ones" type="array">
+      <obj_property name="ElementShortName">Ones[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Ones[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Sh_left" type="array">
+      <obj_property name="ElementShortName">Sh_left[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Sh_left[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Sh_right" type="array">
+      <obj_property name="ElementShortName">Sh_right[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Sh_right[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Ar_right" type="array">
+      <obj_property name="ElementShortName">Ar_right[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Ar_right[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Ro_left" type="array">
+      <obj_property name="ElementShortName">Ro_left[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Ro_left[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Ro_right" type="array">
+      <obj_property name="ElementShortName">Ro_right[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Ro_right[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/y" type="array">
+      <obj_property name="ElementShortName">y[3:0]</obj_property>
+      <obj_property name="ObjectShortName">y[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/Cout" type="logic">
+      <obj_property name="ElementShortName">Cout</obj_property>
+      <obj_property name="ObjectShortName">Cout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/A" type="array">
+      <obj_property name="ElementShortName">A[3:0]</obj_property>
+      <obj_property name="ObjectShortName">A[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/B" type="array">
+      <obj_property name="ElementShortName">B[3:0]</obj_property>
+      <obj_property name="ObjectShortName">B[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/S" type="array">
+      <obj_property name="ElementShortName">S[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S[3:0]</obj_property>
+   </wvobject>
+</wave_config>
